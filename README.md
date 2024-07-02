@@ -5,7 +5,7 @@ Code examples and descriptions of classes from the private coding tutorials I te
 ## What did we learn today?
 ### 02.07.2024
 * We checked the last homework.
-* We repeated the previous topics, loops, conditions, data types (int, float, boolean), logical, comparison, indent in python.
+* We repeated the previous topics, loops, conditions, data types (int, float, boolean), logical, comparison, casting, indent in python ect.
 * We created a github account
 * We got to know the Github environment.
 * We understood the use of github and open source project issues in project management.
