@@ -1,4 +1,4 @@
-# private-coding-classes
+# Private Coding Classes
 Code examples and descriptions of classes from the private coding tutorials I teach.
 
 
